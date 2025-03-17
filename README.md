@@ -12,7 +12,7 @@
 
 ###
 
-<h6 align="left">- 🔭 I’m currently working on AI-powered NLP projects<br>- 📚 I'm currently learning API Tools and MySql Database.<br>- ⚡ In my free time I play computer games, swim and travel.</h6>
+<h6 align="left">- 🔭 I’m currently working on AI-powered NLP projects and AI Agents<br>- 📚 I'm currently learning API Tools and MySql Database.<br>- ⚡ In my free time I play computer games, swim and travel.</h6>
 
 ###
 
